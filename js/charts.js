@@ -2,6 +2,7 @@
 // Line Chart for Orders
 var ordersChart = document.getElementById("myAreaChart");
 
+
 // Bar Chart for Visitor
 var visitorChart = document.getElementById("myBarChart");
 
